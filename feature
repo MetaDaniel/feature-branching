@@ -1,3 +1,3 @@
-feature4 conflict
+feature3 conflict resolved
 
 
